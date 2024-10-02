@@ -108,9 +108,6 @@ The recommendation system uses a similarity matrix to recommend plants based on 
 ## Supervisor
 - **Dr. Angelin Gladston**, Associate Professor, Department of Computer Science and Engineering, College of Engineering Guindy, Chennai.
 
-## License
-This project is licensed under [LICENSE].
 
----
 
-Feel free to customize the content as required and add additional sections if necessary.
+
